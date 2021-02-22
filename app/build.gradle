@@ -26,5 +26,5 @@ dependencies {
 
 application {
     // Define the main class for the application.
-    mainClass = 'ru.konry.spherometr.App'
+    mainClass = 'ru.konry.spherometr.SpherometrDemo'
 }
